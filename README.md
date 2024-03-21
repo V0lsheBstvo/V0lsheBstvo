@@ -10,7 +10,7 @@ I am a Middle Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 
 - :zap: In my free time, I study languages and write various programs and websites.
 
-- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](Don't forget to change it!)
+- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](Dont-forget-to-change-it!)
 
 
 
