@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">College student, IT specialist from Russia 🇷🇺</h3>
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 I am a Middle Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I develop various interesting programs and websites.
 
