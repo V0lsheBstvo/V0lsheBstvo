@@ -61,8 +61,8 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://V0lsheBstvo.ru/)
-[![Email](https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@v0lshebstvo.ru)
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)]()
+[![Email](https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
   
 </div>
 
