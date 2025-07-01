@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://v0lshebstvo.ru/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Трансформация+дизайна+в+функциональные+решения;Фокус+на+производительность+и+качество;Профессиональный+Frontend+разработчик" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Трансформация+дизайна+в+функциональные+решения;Фокус+на+производительность+и+качество;Профессиональный+Frontend+разработчик" alt="Typing SVG" />
   </a>
 </div>
 
